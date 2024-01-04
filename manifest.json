@@ -1,0 +1,15 @@
+{
+  "README.render-doc.js": {
+    "file": "README.render-doc.js",
+    "src": "README.render-doc.js",
+    "isEntry": true,
+    "imports": [
+      "../../../dist/__require.js"
+    ]
+  },
+  "../../../dist/__require.js": {
+    "file": "dist/__require.js",
+    "src": "../../../dist/__require.js",
+    "isEntry": true
+  }
+}
